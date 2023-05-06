@@ -18,8 +18,12 @@
   "bugs": {
     "url": "https://github.com/TaniaShmigel/goit-node-hw-01/issues"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
   "homepage": "https://github.com/TaniaShmigel/goit-node-hw-01#readme",
   "dependencies": {
-    "nodemon": "^2.0.22"
+    "commander": "^10.0.1",
+    "nanoid": "^3.3.4"
   }
 }
